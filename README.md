@@ -27,7 +27,7 @@
 
 		.txt-cen {
 				
-				padding-left: 220px;
+				padding-left: 190px;
 
 		}
 
