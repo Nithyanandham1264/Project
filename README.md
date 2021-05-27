@@ -22,7 +22,7 @@
 		}
 
 		#img {
-			padding-left:80px;
+			padding-left:50px;
 		}
 
 		.txt-cen {
@@ -33,7 +33,7 @@
 
 		#pa {
 		width: 400px;
-		padding-left: 150px;
+		padding-left: 100px;
 		font-style: italic;
 		font-size: 20px;
 		font-weight: bold;
