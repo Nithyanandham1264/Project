@@ -22,7 +22,7 @@
 		}
 
 		#img {
-			padding-left: 160px;
+			padding-left:;
 		}
 
 		.txt-cen {
