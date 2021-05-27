@@ -8,7 +8,7 @@
 			background-color: mediumpurple;
 			height: 60px;
 			text-align: center;
-		        padding-bottom: 30px;
+		        padding-top: 10px;
 		}
 
 		#para {
@@ -27,7 +27,7 @@
 
 		.txt-cen {
 				
-				padding-left: 200px;
+				padding-left: 300px;
 
 		}
 
