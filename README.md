@@ -27,7 +27,7 @@
 
 		.txt-cen {
 				
-				padding-left: 200px;
+				padding-left: 150px;
 
 		}
 
@@ -48,7 +48,7 @@
 	    <td valign="top"><img id="img" src="w1.png" height="130px" width="400px">
 	   <br><br><br>
 	   <p id="pa">This is a simple quiz to check your general knowledge,so just do and check your own,Which helps how much you are strong in GK.</p><br>
-	   <br><br><br><br><br><br>
+	   <br><br><br>
 	   <div class="txt-cen">
 	    <a href="Q1.html"><button type="button"  style="height: 30px;width: 100px" >START</button></a></div>
 	    </td>
