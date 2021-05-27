@@ -2,7 +2,44 @@
 <html>
 <head>
 	<title>School</title>
-	
+	<style>
+		h2{
+			color: black;
+			background-color: mediumpurple;
+			height: 60px;
+			text-align: center;
+		    padding-top:30px;
+		}
+
+		#para {
+			width: 300px;
+			height: 450px;
+			color: black;
+			font-size: 20px;
+			font-style: italic;
+			background-color: silver;
+			padding-top: 50px;
+		}
+
+		#img {
+			padding-left: 160px;
+		}
+
+		.txt-cen {
+				
+				padding-left: 300px;
+
+		}
+
+		#pa {
+		width: 400px;
+		padding-left: 150px;
+		font-style: italic;
+		font-size: 20px;
+		font-weight: bold;
+		text-align: center;
+		}
+	</style>
 </head>
 <body>
 	<h2>TestPress Technology ( QUIZ )</h2>
