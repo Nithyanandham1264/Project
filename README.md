@@ -8,7 +8,7 @@
 			background-color: mediumpurple;
 			height: 60px;
 			text-align: center;
-		    padding-top:30px;
+		  
 		}
 
 		#para {
