@@ -18,7 +18,7 @@
 			font-size: 20px;
 			font-style: italic;
 			background-color: silver;
-			padding-top: 50px;
+			padding-top: px;
 		}
 
 		#img {
@@ -27,7 +27,7 @@
 
 		.txt-cen {
 				
-				padding-left: 230px;
+				padding-left: 200px;
 
 		}
 
