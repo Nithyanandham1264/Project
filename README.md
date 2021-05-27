@@ -22,7 +22,7 @@
 		}
 
 		#img {
-			padding-left:160px;
+			padding-left:100px;
 		}
 
 		.txt-cen {
@@ -50,7 +50,7 @@
 	   <p id="pa">This is a simple quiz to check your general knowledge,so just do and check your own,Which helps how much you are strong in GK.</p><br>
 	   <br><br><br><br><br><br>
 	   <div class="txt-cen">
-	    <a href="Q1.html"><button type="button"  style="height: 30px;width: 100px" href="Q1.html">START</button></a></div>
+	    <a href="Q1.html"><button type="button"  style="height: 30px;width: 100px" >START</button></a></div>
 	    </td>
 	    
     </tr>
