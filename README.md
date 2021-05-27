@@ -22,12 +22,12 @@
 		}
 
 		#img {
-			padding-left:;
+			padding-left:160px;
 		}
 
 		.txt-cen {
 				
-				padding-left: 300px;
+				padding-left: 100px;
 
 		}
 
